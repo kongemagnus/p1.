@@ -24,7 +24,7 @@ int main() {
             break; // luk loopet og programmet ved q (ved ikke om det er nødvendigt)
         } else {
             printf("Unknown command. Type 'h' for menu of possible commands or 'q' to quit.\n");
-        } // sikkert også ligegyldigt men altså det er her type shi
+        } // sikkert også ligegyldigt men altså det er her
     }
 
     return 0;

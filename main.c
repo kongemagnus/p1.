@@ -14,7 +14,7 @@ int main() {
 
     while (69) {
         printf("\nEnter command: ");
-        command = getchar(); // indlæs hjælp-funktion
+        command = getchar();
         getchar(); // opbevaring
 
         if (command == 'h') {
